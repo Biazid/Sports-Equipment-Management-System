@@ -1,0 +1,3 @@
+<SQLRECALL><SQLS type="recent"><SQL category="Default" name="" schema="R1507053" database="127.0.0.1:1521/XE" executed="43279.4714254398"><![CDATA[select * from equipment;]]></SQL><SQL category="Default" name="" schema="R1507053" database="127.0.0.1:1521/XE" executed="43277.5390444792"><![CDATA[select * from transaction;]]></SQL><SQL category="Default" name="" schema="R1507053" database="127.0.0.1:1521/XE" executed="43277.5365398843"><![CDATA[begin
+    p(201);    
+end;]]></SQL><SQL category="Default" name="" schema="R1507053" database="127.0.0.1:1521/XE" executed="43226.8688347222"><![CDATA[select * from person;]]></SQL></SQLS><SQLS type="saved"/><FILTERS type="Saved"/><FILTERS type="Recent"/></SQLRECALL>

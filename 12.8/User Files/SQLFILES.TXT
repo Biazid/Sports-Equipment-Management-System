@@ -1,0 +1,10 @@
+﻿C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\p.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\w_file write.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\w_file read.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\w_file check.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\trigger.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\trigger call.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\Sports.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\procedure.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\procedure call.sql
+C:\Users\hp\AppData\Roaming\Dell\Toad for Oracle\12.8\Join.sql
